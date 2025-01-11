@@ -16,4 +16,16 @@ The notebook walks through various steps including dataset preparation, model tr
 
 You can install the dependencies using pip install -r requirements.txt
 
-The dataset used for this project is from Kaggle's Plant Seedlings Dataset. You can download the dataset from Kaggle and upload the required files into your working directory.
+## Dataset
+
+This project uses the Plant Seedlings Classification Dataset from Kaggle. The dataset contains images for both training and testing purposes, organized into folders for each plant species. 
+
+- `train/`: Contains images for training the model.
+- `test/`: Contains images for testing and evaluating the model.
+
+You can download the dataset from https://www.kaggle.com/c/plant-seedling
+s-classification. 
+
+
+
+
